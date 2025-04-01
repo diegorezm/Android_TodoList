@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">TodoList</string>
+    <string name="add">Add</string>
+    <string name="select_date">Select Date</string>
+    <string name="new_todo">New todo…</string>
+    <string name="undone">Undone</string>
+    <string name="all">All</string>
+    <string name="done">Done</string>
+    <string name="expired">Expired</string>
+</resources>
